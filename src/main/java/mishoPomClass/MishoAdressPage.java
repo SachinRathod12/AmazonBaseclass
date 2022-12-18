@@ -19,6 +19,10 @@ public class MishoAdressPage
 		MishoUtilityClass.waitmethod(driver, 1000);
 		adressButton.click();
 		Reporter.log("clicking on delivery here button",true);
+		Reporter.log("clicking on delivery here button",true);
+		Reporter.log("clicking on delivery here button",true);
+		Reporter.log("clicking on delivery here button",true);
+		Reporter.log("clicking on delivery here button",true);
 	}
 
 }
